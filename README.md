@@ -1,2 +1,2 @@
 # linjiehui.github.io
-Personal
+Personal Blog
